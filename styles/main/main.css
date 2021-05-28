@@ -1,0 +1,13 @@
+.main{
+    margin: 0 auto;
+    min-width: 576px;
+    font-family: 'Manrope', sans-serif;
+    background-color: rgba(87, 87, 87, .2);
+    transition: ease all .5s;
+}
+
+@media screen and (min-width: 1025px) {
+    .main {
+        max-width: 80%;
+    }
+}

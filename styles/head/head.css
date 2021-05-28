@@ -1,0 +1,9 @@
+.head {
+    background-image: url("../../../images/photo-1613999286484-f808d9630453.jpg");
+    background-size: cover;
+    background-position: top;
+    width: 100%;
+    min-width: 576px;
+    height: 99.9vh;
+    opacity: 90%;
+}

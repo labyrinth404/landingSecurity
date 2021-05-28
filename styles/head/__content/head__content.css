@@ -1,0 +1,15 @@
+.head__content {
+    min-width: 40vw;
+    max-height: 30vh;
+    color: rgb(255, 249, 198);
+    text-shadow: 1px 1px 2px white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+@media screen and (min-width: 600px) {
+    .head__content {
+        padding: 0 5vw;
+    }
+}

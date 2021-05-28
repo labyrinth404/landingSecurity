@@ -1,0 +1,12 @@
+.footer {
+    background-color: rgba(87, 87, 87, .9);
+    width: 576px;
+    height: 300px;
+}
+
+@media screen and (min-width: 600px) {
+    .footer {
+        width: 100%;
+    }
+    
+}
